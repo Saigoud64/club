@@ -1,0 +1,48 @@
+
+.heading{
+    background-color: #a67e85;
+}
+.heading h1{
+    text-align: center;
+    text-shadow: 1px 1px;
+    padding:20px;
+    background-color:#5d2322;
+    color:beige
+}
+
+.heading h2{
+    text-align: center;
+    padding:30px;
+}
+
+.club{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    padding: 50px;
+    background-color: #8f6970;
+    
+
+}
+
+.club .card{
+    padding: 10px;
+    display: inline;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+h2{
+    text-align: left;
+    padding-left: 40px;
+}
+
+.books{
+    background-color: #a67e85
+}
+
+.nav{
+  
+}
+.section .books{
+    border-radius: 20px;
+}
